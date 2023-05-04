@@ -27,7 +27,7 @@
                   <v-col cols="4">
                     <div class="text-subtitle-1 text-medium-emphasis">Method</div>
                     <v-text-field readonly density="compact" placeholder="Method" variant="outlined"
-                      value="GET"></v-text-field>
+                      value="POST"></v-text-field>
                   </v-col>
                   <v-col cols="8">
                     <div class="text-subtitle-1 text-medium-emphasis">URL</div>
@@ -115,7 +115,7 @@
                   <v-col cols="4">
                     <div class="text-subtitle-1 text-medium-emphasis">Method</div>
                     <v-text-field readonly density="compact" placeholder="Method" variant="outlined"
-                      value="POST"></v-text-field>
+                      value="GET"></v-text-field>
                   </v-col>
                   <v-col cols="8">
                     <div class="text-subtitle-1 text-medium-emphasis">URL</div>
